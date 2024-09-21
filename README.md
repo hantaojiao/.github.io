@@ -1,5 +1,6 @@
-# Academic Pages
-**Academic Pages is a Github Pages template for academic websites.**
+# Hantao Jiao
+**I am a 4th-year PhD student in the Department of Economics at City, University of London.
+My research focuses on applied Microeconomic Theory, Industrial Organization, and Corporate Social Responsibility (CSR).**
 
 # Getting Started
 
